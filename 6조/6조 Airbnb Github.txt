@@ -1,0 +1,7 @@
+https://github.com/hnjee/Airbnb.git
+
+최종 branch는 master 입니다. 
+
+6조 Airbnb - 이현지, 전세연, 구본익, 전재호 
+
+ 
